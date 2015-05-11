@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { color: #CCC; font-family: sans-serif; /*line-height: 1.4;*/ background: #000 ; font-size: 1em}
+
+p.wine { color: #FFF; font-family: sans-serif; /*line-height: 1.2;*/ background: #000 ; font-size: 14px; text-transform: uppercase;}
+
+wrapper { display: block; width: 900px; margin-right: auto; margin-left: auto; position: relative;}
+
+header { display: block; padding: 10px; color: #b1aca0; margin: auto; position: relative;}
+
+content { display: block; padding: 10px; color: #FFF; text-align:center;}
+footer { display: block; padding: 10px; color: #CCC; text-align:center; font-size: 70%;}
